@@ -3,8 +3,6 @@
 type: schedule
 active: true
 title: Programme
-description: |2-
-  <i class="fa-regular fa-calendar" style="font-size:26px";></i> This is the program description. Add time information, etc here if you want.
 
 program:
     - day: Monday
@@ -47,3 +45,5 @@ program:
         talk 2 by B
         talk 3 by C
 ---
+
+<i class="fa-regular fa-calendar" style="font-size:26px";></i> This is the program description. Add time information, etc here if you want.

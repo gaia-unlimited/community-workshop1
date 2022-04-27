@@ -1,5 +1,6 @@
 ---
 # Code of conduct
+type: section
 active: true
 title: Code of conduct
 ---
