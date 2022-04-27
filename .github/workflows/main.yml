@@ -27,4 +27,6 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run generate_index from generate.py
-        run: python -c 'from generate import *; generate_index()'
+        run: |
+          pip install markdown
+          python -c 'from generate import *; generate_index()'
