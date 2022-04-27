@@ -1,14 +1,5 @@
-# Simple Website generator
+# community-workshop1
 
-This small package generates conference websites with specific standard content (venue, code of conduct, logistics). One defines the content with markdown files, which makes maintenance easy. In addition, the use of GitHub pages allows to deploy the website to a public server quickly.
+## GaiaUnlmited Community Workshop 1
 
-
-⚠️ This package is still in development.
-
-
-## Quick Start
-
-```python
-from simplewebsite import generate
-generate('docs/config.yml')
-```
+These are the web pages for the first Gaia Community workshop, September 13-15 2022
