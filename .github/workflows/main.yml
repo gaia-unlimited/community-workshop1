@@ -30,3 +30,10 @@ jobs:
         run: |
           pip install markdown
           python -c 'from generate import *; generate_index()'
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          branch: gh-pages
+          directory: gh-pages
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
