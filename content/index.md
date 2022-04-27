@@ -4,7 +4,7 @@ type: index
 
 event:
     - title: Gaia Community Workshop #1
-    - subtitle: the Gaia selection function and how to use it
+    - subtitle: The Gaia selection function and how to use the GaiaUnlimited tools
     - date: 13-15 September 2022
     - venue: Max Planck Institute for Astronomy, Heidelberg, Germany
 
