@@ -16,9 +16,9 @@ If you need help with child care arrangements, please contact us.
 Lunch and coffee breaks will be provided at the workshop venue on all days of the workshop. Vegetarian options will be available (no need to pre-order). If you have any additional dietary requirements, please email Carola Jordan well in advance.
 
 ## <i class="fa-solid fa-champagne-glasses"></i> Workshop dinner
-_typical price is ~ 50E/pers; Not always part of the event_
 
-We will hold a workshop dinner on XXX evening at XXX. Exact times and menu choices will be provided nearer the time. We will travel together directly from the workshop to the restaurant by bus (leaving MPIA around 18:00). If you don't wish to attend, please contact us so we can provide the restaurant with the correct numbers.
+To foster and thrive interactions between participants, we will be providing a reception buffet dinner on Wednesday evening at the venue.
+_The bus schedule will be adapted._
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
 Participants are responsible for making their own accommodation arrangements. Heidelberg has plenty of hotel and airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
