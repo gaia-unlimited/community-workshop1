@@ -44,6 +44,9 @@ program:
         talk 1 by A
         talk 2 by B
         talk 3 by C
+    - day: Wednesday
+      title: Dinner buffet (at the workshop venue)
+      highlight: true
     - day: Thursday
       time: 09:00 - 09:30
       title: boot-up
