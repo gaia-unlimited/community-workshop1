@@ -83,6 +83,62 @@ class Section(Content):
         ref = f"""<li><a class="page-scroll" href="#section-{name:s}">{title:s}</a></li>"""
         return template, ref
 
+class Speakers(Content):
+    @property
+    def template(self):
+        """ Path to the index template. """
+        return os.path.join(self.template_dir, 'speakers.html')
+
+    def build(self, **kwargs: dict):
+        """ Generates a speaker list section
+
+        Returns
+        -------
+        markdown_content : str
+            The content of the markdown file as a string.
+        header : dict
+            The header of the markdown file as a dictionary (yaml output).
+        """
+        # no need to bother if not active
+        if self.active is False:
+            print('Section {0:s} ({1:s}) is not active.'.format(self.name, self.filename))
+            return '', ''
+        print('Building Section {0:s} ({1:s}).'.format(self.name, self.filename))
+
+        self.update(**kwargs)
+
+        with open(self.template, 'r') as f:
+            template = f.read()
+
+        title = self['meta']['title']
+        name = self['name']
+        section_class = self.get('section_class', '')
+
+        # data
+        items = self['meta']['speakers']
+        item_format = textwrap.dedent("""
+        <div class="speaker-item">
+            <img src="{{headshot}}" style="height:150px">
+            <h4>{{name}}</h4>
+            <p>{{description}}</p>
+        </div>""")
+        speakers_ = []
+        for entry in items:
+            speakers_.append(
+                item_format.replace('{{headshot}}', entry['image'])\
+                           .replace('{{name}}', entry['name'])\
+                           .replace('{{description}}', entry['title'])
+            )
+        template = template.replace('{{name}}', name)\
+                        .replace('{{other-classes}}', section_class)\
+                        .replace('{{title}}', title)\
+                        .replace('{{description}}', self['content'].to_html())\
+                        .replace('{{speakers-content}}', '\n'.join(speakers_))
+
+        # generate menu reference
+        ref = f"""<li><a class="page-scroll" href="#section-{name:s}">{title:s}</a></li>"""
+        return template, ref
+
 
 class Schedule(Content):
     """ Schedule section widget """
@@ -177,7 +233,7 @@ def content_from_file(filename: str,
 
     # add relevant categories
     type_mapping = {'section': Section, 'schedule': Schedule,
-                    'speakers': Section, 'sponsors': Section,
+                    'speakers': Speakers, 'sponsors': Section,
                     'participants': Section,}
 
     return type_mapping[content_type](

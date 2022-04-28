@@ -43,7 +43,8 @@ body {
     color       : #353e55;
     font-weight : 100;
     background  : #ffffff;
-    border      : 10px solid #fff;
+    border      : 0px solid #fff;
+    margin      : 0px;
     }
 
 /* --------------------------------------
@@ -346,7 +347,6 @@ button:focus,
 /*-------------------
  * Jumbotron
  *-------------------*/
-
 .jumbotron {
     background            : url("../static/img/background.jpg");
     background-size       : cover;
@@ -372,10 +372,11 @@ button:focus,
     height            : 30%;
     width             : 100%;
     margin            : 0 auto;
-    padding           : 0 10%;
+    padding: 0;
     transform         : translateY(-50%);
     -webkit-transform : translateY(-50%);
     -moz-transform    : translateY(-50%);
+	text-align        : center
     }
 
 .jumbotron .content h1 {
@@ -419,7 +420,7 @@ button:focus,
  * Section Wrapper
  *---------------------------*/
 .section-wrapper {
-    padding : 100px 0;
+    padding : 10% 10%;
     }
 
 /*---------------------------
@@ -764,6 +765,7 @@ tbody {
     font-size : 13px;
     color     : #888888;
     padding   : 30px 0;
+    text-align: center;
     }
 
 .footer .copyright-section .copytext {
@@ -804,3 +806,29 @@ tbody {
     text-align : center;
     top        : 65%;
     }
+
+.speaker-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.speaker-item {
+    margin      : 5px ;
+    border      : 5px solid ghostwhite;
+    text-align: center;
+    background-color: ghostwhite;
+    box-shadow: 0 0 3px 0px black;
+}
+
+.speaker-item p {
+    border   : 0px;
+    margin   : 0px;
+    margin-bottom: 0;
+}
+
+.speaker-item h4 {
+    font-weight: 900;
+    border   : 0px;
+    margin   : 0px;
+}
