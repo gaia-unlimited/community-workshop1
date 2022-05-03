@@ -10,7 +10,7 @@ The workshop will be held at the Haus der Astronomie (HdA) at [MPIA](http://www.
 
 ## Accessibility
 
-HdA itself is accessible to persons with disabilities, and dedicated parking spaces are available. Unfortunately, the bus for the workshop may not be accessible to persons with disabilties, although there are taxi services in Heidelberg that are.
+HdA itself is accessible to disabled persons, and dedicated parking spaces are available. Unfortunately, the bus for the workshop may not be disabled accessible, although there are taxi services in Heidelberg that are.
 
 Note that mobile phone connectivity at/around the HdA is at best poor, but usually non-existent. Don't hesitate to contact us in advance if you need any assistance.
 
