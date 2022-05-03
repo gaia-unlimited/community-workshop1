@@ -5,23 +5,28 @@ active: true
 title: Logistics
 ---
 
-The workshop will start at 09:00 on Tuesday Sept. 13 and finish at 16:00 on Thursday Sept. 15
+The workshop will start at 09:00 on Tuesday, Sept. 13, and finish at 16:00 on Thursday, Sept. 15
 
-There will be a dedicated bus to bring participants from the town to the workshop venue (see details under travel below). Participants are responsible for organizing their travel to Heidelberg, and should make their own accommodation arrangements (see below). The conference fee covers coffee breaks and lunches, which will be provided on site.
+There will be a dedicated bus to bring participants from the town to the workshop venue (see details under travel below).
+Participants are responsible for organizing their travel to Heidelberg and should make their accommodation arrangements (see below).
+The conference fee covers all events happening at the venue (coffee breaks, lunches, reception).
 
-If you need help with child care arrangements, please contact us.
+## <i class="fa-solid fa-baby"></i> Childcare
+
+If you need help with childcare arrangements, don't hesitate to contact us.
 
 ## <i class="fa-solid fa-drumstick-bite"></i> Lunches & Coffee Breaks
 
-Lunch and coffee breaks will be provided at the workshop venue on all days of the workshop. Vegetarian options will be available (no need to pre-order). If you have any additional dietary requirements, please email Carola Jordan well in advance.
+The workshop provides lunch and coffee breaks at the venue on all workshop days. Vegetarian options will be available (no need to pre-order). If you have any additional dietary requirements (and may not have indicated so in your registration form), please email [Susanne Koltes-Al-Zoubi](mailto:koltes@mpia-hd.mpg.de) well in advance.
 
 ## <i class="fa-solid fa-champagne-glasses"></i> Workshop dinner
 
 To foster and thrive interactions between participants, we will be providing a reception buffet dinner on Wednesday evening at the venue.
-_The bus schedule will be adapted._
+
+_We will adapt the bus schedule._
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
-Participants are responsible for making their own accommodation arrangements. Heidelberg has plenty of hotel and airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
+Participants are responsible for making their accommodation arrangements. Heidelberg has plenty of hotel and Airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
 
 * [Hotel Vier Jahreszeiten](http://www.4-jahreszeiten.de/hotel/en/), Haspelgasse 2, Heidelberg
 * [Hotel Goldene Rose](https://www.hotel-goldene-rose.de/en-gb/home), St. Anna Gasse 7, Heidelberg
