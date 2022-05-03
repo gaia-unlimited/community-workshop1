@@ -37,3 +37,12 @@ Participants are responsible for making their accommodation arrangements. Heidel
 * [Leonardo Hotel](https://www.leonardo-hotels.com/leonardo-hotel-heidelberg-city-center), Bergheimer Straße 63, Heidelberg
 * [Qube Hotel](https://qube-hotel-heidelberg.de/en), Bergheimer Straße 74, Heidelberg
 * [Hotel NH](https://www.nh-hotels.com/hotel/nh-heidelberg), Bergheimer Straße 91, Heidelberg
+
+_don't hesitate to contact us if you have any questions_.
+
+## <i class="fa-solid fa-comments"></i> Communications
+
+This workshop is an in-person event. In addition, we will use
+
+* <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope> <i class="fa-brands fa-slack"></i> event slack workspace</a>,
+* <a href="https://github.com/gaia-unlimited" aria-label=envelope> <i class="fa-brands fa-github" ></i></i> GaiaUnlimited GitHub</a>.
