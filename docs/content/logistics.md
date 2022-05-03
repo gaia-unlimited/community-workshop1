@@ -5,10 +5,11 @@ active: true
 title: Logistics
 ---
 
-The workshop will start at 09:00 on Tuesday, Sept. 13, and finish at 16:00 on Thursday, Sept. 15
+The workshop will start at 09:00 on Tuesday, September 13 2022, and finish at 16:00 on Thursday, September 15 2022.
 
 There will be a dedicated bus to bring participants from the town to the workshop venue (see details under travel below).
-Participants are responsible for organizing their travel to Heidelberg and should make their accommodation arrangements (see below).
+Participants are responsible for organizing their travel to Heidelberg and should make their own accommodation arrangements (see below).
+
 The conference fee covers all events happening at the venue (coffee breaks, lunches, reception).
 
 ## <i class="fa-solid fa-baby"></i> Childcare
@@ -21,28 +22,28 @@ The workshop provides lunch and coffee breaks at the venue on all workshop days.
 
 ## <i class="fa-solid fa-champagne-glasses"></i> Workshop dinner
 
-To foster and thrive interactions between participants, we will be providing a reception buffet dinner on Wednesday evening at the venue.
+To foster interactions between participants, we will be providing a reception buffet dinner on Wednesday evening at the venue.
 
-_We will adapt the bus schedule._
+_We will adapt the bus schedule accordingly._
 
 ## <i class="fa-solid fa-bed"></i> Accommodation
-Participants are responsible for making their accommodation arrangements. Heidelberg has plenty of hotel and Airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
+Participants are responsible for making their own accommodation arrangements. Heidelberg has plenty of hotel and Airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
 
-* [Hotel Vier Jahreszeiten](http://www.4-jahreszeiten.de/hotel/en/), Haspelgasse 2, Heidelberg
+* [Hotel Vier Jahreszeiten](https://4-jahreszeiten.de/), Haspelgasse 2, Heidelberg
 * [Hotel Goldene Rose](https://www.hotel-goldene-rose.de/en-gb/home), St. Anna Gasse 7, Heidelberg
-* [Hotel Monpti](http://www.hotel-monpti.de/en), Friedrich-Ebert-Anlage 57, Heidelberg
-* [Denner Hotel](http://www.denner-hotel.de/en/), Bergheimer Straße 8, Heidelberg
+* [Hotel Monpti](https://www.hotel-monpti.de/en), Friedrich-Ebert-Anlage 57, Heidelberg
+* [Denner Hotel](http://www.denner-hotel.de/), Bergheimer Straße 8, Heidelberg
 * [GuestHouse Heidelberg](http://www.guesthouse-hd.de/ghouse/website.nsf/index.html?openpage&L=2), Bergheimer Straße 24, Heidelberg
-* [Bergheim 41](http://www.bergheim41.de/?lang=en), Bergheimer Straße 41, Heidelberg
+* [Bergheim 41](https://www.bergheim41.de/?lang=en), Bergheimer Straße 41, Heidelberg
 * [Leonardo Hotel](https://www.leonardo-hotels.com/leonardo-hotel-heidelberg-city-center), Bergheimer Straße 63, Heidelberg
-* [Qube Hotel](https://qube-hotel-heidelberg.de/en), Bergheimer Straße 74, Heidelberg
+* [Qube Hotel](https://www.qube-hotel-heidelberg.de/qubef/indexen.html), Bergheimer Straße 74, Heidelberg
 * [Hotel NH](https://www.nh-hotels.com/hotel/nh-heidelberg), Bergheimer Straße 91, Heidelberg
 
 _don't hesitate to contact us if you have any questions_.
 
 ## <i class="fa-solid fa-comments"></i> Communications
 
-This workshop is an in-person event. In addition, we will use
+This workshop is an in-person event. In addition, we will use:
 
 * <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope> <i class="fa-brands fa-slack"></i> event slack workspace</a>,
 * <a href="https://github.com/gaia-unlimited" aria-label=envelope> <i class="fa-brands fa-github" ></i></i> GaiaUnlimited GitHub</a>.
