@@ -6,6 +6,11 @@ title: Programme
 
 program:
     - day: Tuesday
+      time: 08:30 - 09:30
+      title: Participants arrival
+      description: Registration, name tags, etc.
+      highlight: true
+    - day: Tuesday
       time: 09:00 - 09:30
       title: boot-up
       description: Welcome and opening remarks

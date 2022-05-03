@@ -31,6 +31,7 @@ Participants are responsible for making their own accommodation arrangements. He
 
 * [Hotel Vier Jahreszeiten](https://4-jahreszeiten.de/), Haspelgasse 2, Heidelberg
 * [Hotel Goldene Rose](https://www.hotel-goldene-rose.de/en-gb/home), St. Anna Gasse 7, Heidelberg
+* [Hotel Anlage](https://hotel-anlage.de/?lang=en), Friedrich-Ebert-Anlage 32, Heidelberg
 * [Hotel Monpti](https://www.hotel-monpti.de/en), Friedrich-Ebert-Anlage 57, Heidelberg
 * [Denner Hotel](http://www.denner-hotel.de/), Bergheimer Straße 8, Heidelberg
 * [GuestHouse Heidelberg](http://www.guesthouse-hd.de/ghouse/website.nsf/index.html?openpage&L=2), Bergheimer Straße 24, Heidelberg
