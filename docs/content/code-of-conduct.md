@@ -16,3 +16,8 @@ The organizers are dedicated to providing a harassment-free conference experienc
 In addition to a general Code of Conduct and Ethics, all participants must agree with our collaboration policy: i.e., to openly share their ideas, expertise, code, and interim results. Project development will proceed out in the open among participants.
 
 Participants are encouraged to change gears, start new collaborations, and drop or combine projects. Any participant contributing significantly to a project can expect appropriate credit vessels (e.g., co-authorship).
+
+We pledge to help the entire community follow the code of conduct, and to not remain silent when we see violations of the code of conduct. We will take action when members of our community violate this code such as notifying a workshop organizer or talking privately with the person.
+This code of conduct applies to all community situations online and offline, including the conference itself, mailing lists, forums, social media, social events associates with the conference, and one-to-one interactions.
+
+Participants asked to stop any harassing behavior are expected to comply immediately. Attendees violating these rules may be asked to leave the event at the sole discretion of the conference organizers.

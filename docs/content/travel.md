@@ -7,33 +7,39 @@ active: true
 
 ---
 
-## <i class="fa-solid fa-road-barrier"></i> Visa & Flight Information
+## <i class="fa-solid fa-road-barrier"></i> Visa
 
-You may need to apply for a visa to enter Germany. See this overview of [visa requirements](http://www.mpia.de/en/services/information-for-guests/before-arrival). Feel free to contact the organizers if you need a letter of support.
+You may need to apply for a visa to enter Germany. See this overview of [visa requirements](http://www.mpia.de/en/services/information-for-guests/before-arrival).
 
-We recommend flying to Frankfurt Airport (FRA), as this is the nearest international airport to Heidelberg. The following directions to Heidelberg assume that you are starting from Frankfurt.
+Feel free to contact the organizers if you need a letter of support.
 
 
 ## <i class="fa-solid fa-triangle-exclamation"></i> Travel restrictions
 
 While travel is now possible, there are still many continuously changing restrictions. We'll do our best to provide support and information.
 
-Entry to Germany is limited to nationals from EU member states, Switzerland, Liechtenstein, Norway, Iceland, and those vaccinated with [vaccines approved in Germany](https://www.pei.de/EN/newsroom/dossier/coronavirus/coronavirus-content.html). Exceptions are possible for [researchers and scientists](https://www.bmi.bund.de/SharedDocs/faqs/DE/themen/bevoelkerungsschutz/coronavirus/reisebeschraenkungen-grenzkontrollen/IV-reisebeschraenkungen-im-aussereuropaeischen-luft-und-seeverkehr-einreisen-aus-drittstaat/welche-fachkraefte-und-hoch-qualifizierte-arbeitnehmer-duerfen-einreisen.html), but we recommend checking with your local German embassy to confirm if these apply to you. Travelers are obligated to provide evidence of a negative COVID-19 PCR test and proof of vaccination or recovery upon entering the country. Additionally, MPIA and HdA are currently operating under 2G rules whereby only vaccinated (with a Germany-approved vaccine) or recovered individuals are allowed on the premises. We will continue to update this information, and please check with a German embassy for specific restrictions and visa requirements based on your location and citizenship.
+Entry to Germany is limited to nationals from EU member states, Switzerland, Liechtenstein, Norway, Iceland, and those vaccinated with [vaccines approved in Germany](https://covid19.trackvaccines.org/country/germany/). Exceptions are possible for [researchers and scientists](https://www-bmi-bund-de.translate.goog/SharedDocs/faqs/DE/themen/bevoelkerungsschutz/coronavirus/reisebeschraenkungen-grenzkontrollen/IV-reisebeschraenkungen-im-aussereuropaeischen-luft-und-seeverkehr-einreisen-aus-drittstaat/welche-fachkraefte-und-hoch-qualifizierte-arbeitnehmer-duerfen-einreisen.html?_x_tr_sl=de&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp), but we recommend checking with your local German embassy to confirm if these apply to you. Travelers are obligated to provide evidence of a negative COVID-19 PCR test and proof of vaccination or recovery upon entering the country. Additionally, MPIA and HdA are currently operating under 2G rules whereby only vaccinated (with a Germany-approved vaccine) or recovered individuals are allowed on the premises. We will continue to update this information, and please check with a German embassy for specific restrictions and visa requirements based on your location and citizenship.
 
 ## Getting to Heidelberg
 
-### <i class="fa-solid fa-train"></i> Train
+### <i class="fa-solid fa-plane"></i> Flight
+
+We recommend flying to Frankfurt Airport (FRA), as this is the nearest international airport to Heidelberg. The following directions to Heidelberg assume that you are starting from Frankfurt.
 
 Deutsche Bahn (DB) has connections from Frankfurt Airport (station: Frankfurt(M) Flughafen Fernbahnhof) to various train stations around Heidelberg (likely either Hauptbanhof or Altstadt, depending on where your hotel is). Typically you will take a train to Mannheim and change platforms there for the S-Bahn to Heidelberg. The total travel time is of the order of one hour.
 Tickets cost about 25 € each way. The timetable is available [here](https://www.bahn.com/en/view/index.shtml). You can buy a ticket in advance, but we don't recommend the cheaper "saver" tickets, as these apply to the specific booked train -- You cannot use them on a different train if you have flight delays.
 
+The two best shuttle options are [Transfer & Limousine Service (TLS)](https://www.tls-heidelberg.de/en/) (40 € each way) and [Lufthansa Express Shuttle](https://www.lufthansa.com/de/en/Lufthansa-Express-Shuttle) (25 € each way).
+
+### <i class="fa-solid fa-train"></i> Train
+
+[Deutsche Bahn (DB)](https://www.bahn.com/en/view/index.shtml) has connections to various train stations around Heidelberg (likely either Hauptbanhof or Altstadt, depending on where your hotel is). Typically you will have a connection in Mannheim and change platforms there for the S-Bahn to Heidelberg. [Trainline](https://www.thetrainline.com/) could also help you plan your journey across multiple countries and train companies.
+
+Although there are no barier gates in Germany, you will need to buy a ticket before stepping into the trains. The controls are frequent. You can buy tickets online or at ticket machines or for S-Bahn (and local buses) on the [eVRN app](https://www.vrn.de/service/apps/etarif/index.html).
+
 ### <i class="fa-solid fa-bus"></i> Bus
 
 A cheaper but slower alternative is the "Flixbus" from the airport to Heidelberg. The prices range from 5 to 15 € each way, but depending on the time of day, the trip could take up to three hours due to stops and traffic. To investigate timetables and book tickets, you can check out the [Flixbus website](https://www.flixbus.com/).
-
-### <i class="fa-solid fa-bus-simple"></i> Shuttle
-
-The two best shuttle options are [Transfer & Limousine Service (TLS)](https://www.tls-heidelberg.de/en/) (40 € each way) and [Lufthansa Express Shuttle](https://www.lufthansa.com/de/en/Lufthansa-Express-Shuttle) (25 € each way).
 
 ### <i class="fa-solid fa-road"></i> Driving directions
 If you decide to rent a car and drive, you can follow [these directions](https://www.google.com/maps/dir/Frankfurt+Airport,+Frankfurt,+Germany/Max-Planck-Institut+f%C3%BCr+Astronomie,+K%C3%B6nigstuhl+17,+69117+Heidelberg/@49.7240731,8.3527948,10z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x47bd0b745442f979:0x8a74d84d21f8f331!2m2!1d8.5621518!2d50.0379326!1m5!1m1!1s0x4797c04e5257640d:0x7a5e759cc166d6bf!2m2!1d8.7236247!2d49.3968064!3e0) (to MPIA).

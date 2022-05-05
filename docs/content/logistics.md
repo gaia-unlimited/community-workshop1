@@ -26,6 +26,10 @@ To foster interactions between participants, we will be providing a reception bu
 
 _We will adapt the bus schedule accordingly._
 
+## <i class="fa-solid fa-universal-access"></i> Accessibility
+
+We are committed to providing an accessible environment for all participants. If you need help or arrangements, don't hesitate to contact the organizers.
+
 ## <i class="fa-solid fa-bed"></i> Accommodation
 Participants are responsible for making their own accommodation arrangements. Heidelberg has plenty of hotel and Airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
 

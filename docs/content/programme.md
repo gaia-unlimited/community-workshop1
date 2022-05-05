@@ -57,7 +57,7 @@ program:
       title: boot-up
       highlight: true
     - day: Thursday
-      time: 15:00-16:00
+      time: 15:00 - 16:00
       title: wrap-up
       highlight: true
 ---
