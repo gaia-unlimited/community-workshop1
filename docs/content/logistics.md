@@ -30,6 +30,12 @@ _We will adapt the bus schedule accordingly._
 
 We are committed to providing an accessible environment for all participants. If you need help or arrangements, don't hesitate to contact the organizers.
 
+Participants will pay attention not to leave out information for some people in your audience.
+Some of us might not be able to see well, hear well, move well, speak well, or understand information presented in some ways well or at all.
+Everyone at the event will be open to diversity in the audience and any accessibility issues.
+The [Web Accessibility Initiative](https://www.w3.org/WAI/teach-advocate/accessible-presentations/) provides some information & directions.
+
+
 ## <i class="fa-solid fa-bed"></i> Accommodation
 Participants are responsible for making their own accommodation arrangements. Heidelberg has plenty of hotel and Airbnb options; the following hotels are some suggestions (but we don't endorse any particular hotel).
 
