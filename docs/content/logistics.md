@@ -10,7 +10,9 @@ The workshop will start at 09:00 on Tuesday, September 13 2022, and finish at 16
 There will be a dedicated bus to bring participants from the town to the workshop venue (see details under travel below).
 Participants are responsible for organizing their travel to Heidelberg and should make their own accommodation arrangements (see below).
 
-The conference fee covers all events happening at the venue (coffee breaks, lunches, reception).
+## <i class="fa-solid fa-coins"></i> Financial
+
+There is no conference fee. All events happening at the venue (coffee breaks, lunches, reception) are covered, but we cannot offer travel or lodging support.
 
 ## <i class="fa-solid fa-baby"></i> Childcare
 
