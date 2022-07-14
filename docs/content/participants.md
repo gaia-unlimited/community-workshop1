@@ -7,7 +7,8 @@ title: Participants
 
 <i class="fa-solid fa-people-group"></i> The registration is **closed**.
 
-## <i class="fa-solid fa-envelope-open-text"></i> We will send notifications to the participants on **July 18**.
+## <i class="fa-solid fa-envelope-open-text"></i> Participants notified on **July 14**. 
+(participation confirmation by Aug 15)
 
 <i class="fa-solid fa-file-shield"></i> Any personal data you provide will be processed in accordance with the Max Planck Institute for Astronomy [privacy policy](http://www.mpia.de/privacy-policy).
 
