@@ -58,5 +58,5 @@ _don't hesitate to contact us if you have any questions_.
 
 This workshop is an in-person event. In addition, we will use:
 
-* <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope> <i class="fa-brands fa-slack"></i> event slack workspace</a>,
+* <a href="https://gaiaunlimited-events.slack.com" aria-label=envelope> <i class="fa-brands fa-slack"></i> event slack workspace</a>, [join](https://join.slack.com/t/gaiaunlimited-events/shared_invite/zt-1895akx1h-IBeUNcxXvdL8TZ53aEVLaA)
 * <a href="https://github.com/gaia-unlimited" aria-label=envelope> <i class="fa-brands fa-github" ></i></i> GaiaUnlimited GitHub</a>.
