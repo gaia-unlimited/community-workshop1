@@ -46,13 +46,14 @@ Hai-Feng Wang 	        (Rome Fermi Center) <br>
 Hans-Walter Rix     	(MPIA) <br>
 Himanshu Verma	        (IIT Bombay) <br>
 Jairo Alzate	        (National Institute of Astrophysics, Optics and Electronics) <br>
+James Lane            (U. of Toronto) <br>
 Jason Sanders       	(U. College London) <br>
 Jiadong Li	            (NAOC - NYU) <br>
 John Mora	            (IUCAA) <br>
 Josefa Großschedl	    (U. of Vienna) <br>
-K R Arjun 	            (Indian Institute of Science Education and Research) <br>
 </div>
 <div class="col-md-6" align="left" style="margin: 10px;">
+K R Arjun 	            (Indian Institute of Science Education and Research) <br>
 Katia Kamura Mamani Burgos 	(National U. of Callao) <br>
 Kseniia Sysoliatina 	(ARI) <br>
 Laia Casamiquela	    (Observatoire de Paris) <br>
