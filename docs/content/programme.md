@@ -103,7 +103,7 @@ program:
 
     - day: Wednesday
       time: 11:00 - 12:00
-      title: Session 4 - Contributed Talks (2)
+      title: Session 4 - Contributed Talks
       highlight: true
       description: |2-
         Content TBD
@@ -136,7 +136,7 @@ program:
 
     - day: Wednesday
       time: 16:30 - 17:30
-      title: Session 5 - Contributed Talks (2)
+      title: Session 5 - Contributed Talks 
       highlight: true
       description: |2-
         TBD
@@ -164,7 +164,7 @@ program:
 
     - day: Thursday
       time: 9:10 - 10:30
-      title: Session 6 - Contributed Talks (2)
+      title: Session 6 - Contributed Talks 
       highlight: true
       description: |2-
         TBD
@@ -177,7 +177,7 @@ program:
 
     - day: Thursday
       time: 11:00 - 12:00
-      title: Session 7 - Contributed Talks (2)
+      title: Session 7 - Contributed Talks 
       highlight: true
       description: |2-
         TBD
