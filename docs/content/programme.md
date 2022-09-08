@@ -61,7 +61,7 @@ program:
       description:
       highlight: true
     - day: Tuesday
-      time: 15:10 - 17:30
+      time: 16:10 - 17:30
       title: Unconference and Tutorials
       highlight: true
       description:
