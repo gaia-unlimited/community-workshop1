@@ -6,6 +6,10 @@ title: Programme
 
 program:
     - day: Tuesday
+      time: 08:15 -
+      title: Bus departure from first stop
+      highlight: false
+    - day: Tuesday
       time: 08:30 - 09:00
       title: Participants arrival
       description: Registration, name tags, etc.
@@ -79,14 +83,17 @@ program:
     - day: Tuesday
       time: 19:30 -
       title: Bus departure
+      highlight: false
 # ----------------------------------------------------------------
+    - day: Wednesday
+      time: 08:25 -
+      title: Bus departure from first stop
       highlight: false
     - day: Wednesday
       time: 09:00 - 09:10
       title: boot-up
       description: Welcome and opening remarks
       highlight: true
-
     - day: Wednesday
       time: 09:10 - 10:30
       title: Session 3 - Contributed Talks
@@ -153,10 +160,14 @@ program:
       # time: 18:00 - 19:30
       highlight: true
     - day: Wednesday
-      time: 21:00 -
+      time: 20:00 -
       title: Bus departure
 # ----------------------------------------------------------------
-
+    - day: Thursday
+      time: 08:25 -
+      title: Bus departure from first stop
+      highlight: false
+      
     - day: Thursday
       time: 09:00 - 09:10
       title: boot-up
