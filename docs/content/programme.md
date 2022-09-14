@@ -130,7 +130,7 @@ program:
         Unconference topic selection and room allocation
 
     - day: Wednesday
-      time: 12:10 - 13:00
+      time: 12:10 - 13:30
       title: Lunch break
       highlight: true
       description:
