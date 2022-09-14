@@ -140,7 +140,8 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        TBD
+        How far can taking ratios take you for subset selection functions, led by Payel Das
+        Open and glucbular clusters, led by Emily Hunt
 
     - day: Wednesday
       time: 16:00 - 16:30
