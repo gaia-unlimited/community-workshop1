@@ -120,7 +120,7 @@ program:
       highlight: true
       description: |2-
         [Astrometric binary selection function]() by Zephyr Penoyre
-        []() by Alessandro Mazzi
+        [The star formation history of the Solar Neighborhood]() by Alessandro Mazzi
 
     - day: Wednesday
       time: 12:00 - 12:10
