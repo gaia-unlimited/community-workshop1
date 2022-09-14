@@ -22,8 +22,7 @@ program:
     - day: Tuesday
       time: 09:10 - 10:40
       title: Pitch cards
-      description: Individual one slide introductions
-#     [slide deck](https://docs.google.com/presentation/d/1qP4x2mJiqwI1hqZlG6ca-T3rkY5-wkERbvDUPYZgJ24/edit?usp=sharing)
+      description: Individual one slide introductions [slide deck](https://docs.google.com/presentation/d/1qP4x2mJiqwI1hqZlG6ca-T3rkY5-wkERbvDUPYZgJ24/edit?usp=sharing)
       highlight: true
     - day: Tuesday
       time: 10:40 - 11:00
@@ -35,8 +34,8 @@ program:
       title: Session 1 - The Gaia selection function & GaiaUnlimited project
       highlight: true
       description: |2-
-        Gaia Unlimited intro, overview & scope by Anthony Brown
-        What’s the point/pain of Selection Functions by Hans-Walter Rix
+        [Gaia Unlimited intro, overview & scope](https://drive.google.com/file/d/1KiROTW_324fk0V5wkrASJLBhEwA-gM4h/view?usp=sharing) by Anthony Brown
+        [What’s the point/pain of Selection Functions](https://docs.google.com/presentation/d/18mBevGnPXntXvByMjITRQlppxAoGpnFR/edit?usp=sharing&ouid=111562470490142140758&rtpof=true&sd=true) by Hans-Walter Rix
     - day: Tuesday
       time: 12:00 - 13:00
       title: Lunch break
@@ -47,9 +46,9 @@ program:
       title: Session 2 - Use cases of Gaia SF and complications
       highlight: true
       description: |2-
-        An empirical calibration of the Gaia DR3 catalogue selection function by Tristan Cantat-Gaudin
-        RVS (subsample) Selection Function by Alfred Castro-Ginard
-        An All sky catalogue of Red Clump stars by Shourya Khanna
+        [An empirical calibration of the Gaia DR3 catalogue selection function](https://drive.google.com/file/d/1ED53m5kn6BvMei8iqqp_3J5Xoh7L2h4z/view?usp=sharing) by Tristan Cantat-Gaudin
+        [RVS (subsample) Selection Function](https://drive.google.com/file/d/1Z-4lIx_iT9_pH1kC9_TrwmlaEEYMk0L0/view?usp=sharing) by Alfred Castro-Ginard
+        [An All sky catalogue of Red Clump stars](https://drive.google.com/file/d/1c0E9pnU3KmqEfSHfb4ntJiJN5jyU5lzo/view?usp=sharing) by Shourya Khanna
     - day: Tuesday
       time: 13:50 - 14:00
       title: Daily Unconference Planning
@@ -70,7 +69,7 @@ program:
       time: 16:10 - 17:30
       title: Unconference and Tutorials
       highlight: true
-      description:
+      description: |2-
         The selection function and characterizing Milky Way structure, led by Anthony Brown
         Casting your question into Math with selection Function, led by Hans-Walter Rix
     - day: Tuesday
@@ -98,12 +97,17 @@ program:
       description: Welcome and opening remarks
       highlight: true
     - day: Wednesday
-      time: 09:10 - 10:30
+      time: 09:10 - 10:00
       title: Session 3 - Contributed Talks
       highlight: true
       description: |2-
         Discussion on the selection function for sources with a BP-RP colour, led by Tristan Cantat-Gaudin
-
+    - day: Wednesday
+      time: 09:10 - 10:00
+      title: Hack time
+      highlight: true
+      description: |2-
+        Experiment various selection functions.
     - day: Wednesday
       time: 10:30 - 11:00
       title: Coffee break
@@ -115,7 +119,8 @@ program:
       title: Session 4 - Contributed Talks
       highlight: true
       description: |2-
-        Content TBD
+        [Astrometric binary selection function]() by Zephyr Penoyre
+        []() by Alessandro Mazzi
 
     - day: Wednesday
       time: 12:00 - 12:10
