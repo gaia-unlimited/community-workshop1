@@ -136,7 +136,7 @@ program:
       description:
 
     - day: Wednesday
-      time: 13:00 - 16:00
+      time: 13:30 - 16:00
       title: Unconference and Tutorials
       highlight: true
       description: |2-
