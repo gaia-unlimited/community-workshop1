@@ -154,7 +154,7 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        Accounting for dust distribution
+        Accounting for the dust distribution, led by Hans-Walter Rix
 
     - day: Wednesday
       time: 17:30 - 18:00
