@@ -136,7 +136,7 @@ program:
       description:
 
     - day: Wednesday
-      time: 13:30 - 16:00
+      time: 13:30 - 15:45
       title: Unconference and Tutorials
       highlight: true
       description: |2-
@@ -144,17 +144,17 @@ program:
         Open and globular clusters, led by Emily Hunt
 
     - day: Wednesday
-      time: 16:00 - 16:30
+      time: 15:45 - 16:15
       title: Coffee break
       description:
       highlight: true
 
     - day: Wednesday
-      time: 16:30 - 17:30
-      title: Session 5 - Contributed Talks
+      time: 16:15 - 17:30
+      title: Unconference and Tutorials
       highlight: true
       description: |2-
-        TBD
+        Accounting for dust distribution
 
     - day: Wednesday
       time: 17:30 - 18:00
