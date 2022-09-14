@@ -141,7 +141,7 @@ program:
       highlight: true
       description: |2-
         How far can taking ratios take you for subset selection functions, led by Payel Das
-        Open and glucbular clusters, led by Emily Hunt
+        Open and globular clusters, led by Emily Hunt
 
     - day: Wednesday
       time: 16:00 - 16:30
