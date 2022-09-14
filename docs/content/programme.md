@@ -47,7 +47,9 @@ program:
       title: Session 2 - Use cases of Gaia SF and complications
       highlight: true
       description: |2-
-        Selected presentations (TBD)
+        An empirical calibration of the Gaia DR3 catalogue selection function by Tristan Cantat-Gaudin
+        RVS (subsample) Selection Function by Alfred Castro-Ginard
+        An All sky catalogue of Red Clump stars by Shourya Khanna
     - day: Tuesday
       time: 13:50 - 14:00
       title: Daily Unconference Planning
@@ -58,7 +60,7 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        This session will include a tutorial on the GaiaUnlimited tools.
+        Tutorial on the GaiaUnlimited tools
     - day: Tuesday
       time: 15:50 - 16:10
       title: Coffee break
@@ -69,7 +71,8 @@ program:
       title: Unconference and Tutorials
       highlight: true
       description:
-        Selected topics & tutorials
+        The selection function and characterizing Milky Way structure, led by Anthony Brown
+        Casting your question into Math with selection Function, led by Hans-Walter Rix
     - day: Tuesday
       time: 17:30 - 18:00
       title: Wrap-up
@@ -99,8 +102,7 @@ program:
       title: Session 3 - Contributed Talks
       highlight: true
       description: |2-
-        Anyone can present something, a stack of plots is sufficient.
-        Content TBD.
+        Discussion on the selection function for sources with a BP-RP colour, led by Tristan Cantat-Gaudin
 
     - day: Wednesday
       time: 10:30 - 11:00
@@ -143,7 +145,7 @@ program:
 
     - day: Wednesday
       time: 16:30 - 17:30
-      title: Session 5 - Contributed Talks 
+      title: Session 5 - Contributed Talks
       highlight: true
       description: |2-
         TBD
@@ -167,7 +169,7 @@ program:
       time: 08:25 -
       title: Bus departure from first stop
       highlight: false
-      
+
     - day: Thursday
       time: 09:00 - 09:10
       title: boot-up
@@ -175,7 +177,7 @@ program:
 
     - day: Thursday
       time: 9:10 - 10:30
-      title: Session 6 - Contributed Talks 
+      title: Session 6 - Contributed Talks
       highlight: true
       description: |2-
         TBD
@@ -188,7 +190,7 @@ program:
 
     - day: Thursday
       time: 11:00 - 12:00
-      title: Session 7 - Contributed Talks 
+      title: Session 7 - Contributed Talks
       highlight: true
       description: |2-
         TBD
