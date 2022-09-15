@@ -225,7 +225,7 @@ program:
       title: Session 8 - G-U feedback and Gaia SF perspective
       highlight: true
       description: |2-
-        TBD
+        [GaiaUnlimited: feedback and perspectives](https://docs.google.com/presentation/d/1mtP8S2AquQ2zXBuNuPpDGa1gDliTjQ9aB6Jexiqq7-Q/edit?usp=sharing), by Anthony Brown
 
     - day: Thursday
       time: 15:45 - 16:00
