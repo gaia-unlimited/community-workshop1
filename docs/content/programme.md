@@ -120,7 +120,7 @@ program:
       highlight: true
       description: |2-
         [Astrometric binary selection function](https://drive.google.com/file/d/1FmYINa9Ta3rSb6_5gNTfYCip2wI9GM3U/view?usp=sharing) by Zephyr Penoyre
-        [The star formation history of the Solar Neighborhood]() by Alessandro Mazzi
+        [The star formation history of the Solar Neighborhood](https://drive.google.com/file/d/1UYkZIYIgZPFOmDdB_MzHYBbBO-bwIRpK/view?usp=sharing) by Alessandro Mazzi
 
     - day: Wednesday
       time: 12:00 - 12:10
