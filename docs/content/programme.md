@@ -183,10 +183,10 @@ program:
 
     - day: Thursday
       time: 9:10 - 10:30
-      title: Session 6 - Contributed Talks
+      title: Unconference and Tutorials
       highlight: true
       description: |2-
-        TBD
+        Selection function when crossmatching datasets, led by Morgan Fouesneau
 
     - day: Thursday
       time: 10:30 - 11:00
@@ -199,7 +199,7 @@ program:
       title: Session 7 - Contributed Talks
       highlight: true
       description: |2-
-        TBD
+        [Selection of binaries in Gaia DR3](), by Tsevi Mazeh
 
     - day: Thursday
       time: 12:10 - 13:00
@@ -208,11 +208,17 @@ program:
       description:
 
     - day: Thursday
+      time: 13:00 - 13:10
+      title: Final logistics
+      highlight: true
+      description: |2-
+
+    - day: Thursday
       time: 13:00 - 14:20
       title: Unconference and Tutorials
       highlight: true
       description: |2-
-        TBD
+        Selection function of Binaries, led by Zephyr Penoyre
 
     - day: Thursday
       time: 14:20 - 15:45
