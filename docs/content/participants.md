@@ -22,6 +22,11 @@ _We will later list here the participants of the workshop, and we will add a gro
 
 <i class="fa-solid fa-coins"></i> There are no registration fees to participate to this workshop.
 
+
+<div style="display:flex; justify-content: center; flex-wrap: wrap;">
+<img src="static/img/group.jpg" alt="group" width=90% style="float: right;">
+</div>
+
 <div style="font-size:30px; display:flex; justify-content: center;">
 <i class="fa-solid fa-people-group" style="margin-left: 15px;"></i>
 </div>
