@@ -221,16 +221,16 @@ program:
         Selection function of Binaries, led by Zephyr Penoyre
 
     - day: Thursday
-      time: 14:20 - 15:45
-      title: Session 8 - G-U feedback and Gaia SF perspective
+      time: 14:20 - 14:40
+      title: final wrap-up
+      highlight: true
+
+    - day: Thursday
+      time: 14:40 - 16:00
+      title: G-U feedback and Gaia SF perspective
       highlight: true
       description: |2-
         [GaiaUnlimited: feedback and perspectives](https://docs.google.com/presentation/d/1mtP8S2AquQ2zXBuNuPpDGa1gDliTjQ9aB6Jexiqq7-Q/edit?usp=sharing), by Anthony Brown
-
-    - day: Thursday
-      time: 15:45 - 16:00
-      title: final wrap-up
-      highlight: true
 
     - day: Thursday
       title: Bus departure
