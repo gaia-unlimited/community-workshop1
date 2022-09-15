@@ -196,7 +196,7 @@ program:
 
     - day: Thursday
       time: 11:00 - 12:00
-      title: Session 7 - Contributed Talks
+      title: Session 5 - Contributed Talks
       highlight: true
       description: |2-
         [Selection of binaries in Gaia DR3](), by Tsevi Mazeh
