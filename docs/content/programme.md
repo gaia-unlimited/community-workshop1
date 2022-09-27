@@ -66,26 +66,29 @@ program:
       description:
       highlight: true
     - day: Tuesday
-      time: 16:10 - 17:30
+      time: 16:10 - 18:00
       title: Unconference and Tutorials
       highlight: true
       description: |2-
         The selection function and characterizing Milky Way structure, led by Anthony Brown
         Casting your question into Math with selection Function, led by Hans-Walter Rix
     - day: Tuesday
-      time: 17:30 - 18:00
+      title: Reception (at the workshop venue)
+      # time: 18:00 - 19:30
+      highlight: true
+    - day: Tuesday
+      time: 19:00 - 19:30
       title: Wrap-up
       description: |2-
         Reports on the unconference sessions. Sharing results and feedback.
       highlight: true
     - day: Tuesday
-      title: Reception (at the workshop venue)
-      # time: 18:00 - 19:30
+      time: 19:30 - 20:00
+      title: Outlook for day 2
       highlight: true
     - day: Tuesday
-      time: 19:30 -
+      time: 20:00 -
       title: Bus departure
-      highlight: false
 # ----------------------------------------------------------------
     - day: Wednesday
       time: 08:25 -
@@ -167,6 +170,19 @@ program:
       title: Dinner Buffet (at the workshop venue)
       # time: 18:00 - 19:30
       highlight: true
+
+    - day: Wednesday
+      time: 19:00 - 19:30
+      title: Wrap-up
+      description: |2-
+        Reports on the unconference sessions. Sharing results and feedback.
+      highlight: true
+      
+    - day: Wednesday
+      time: 19:30 - 20:00
+      title: Outlook for day 3
+      highlight: true
+
     - day: Wednesday
       time: 20:00 -
       title: Bus departure
