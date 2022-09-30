@@ -44,6 +44,7 @@ Anthony Brown       	(Leiden U.) <br>
 Dana Kovaleva       	(Institute of Astronomy, Russian Academy of Sciences) <br>
 Eleonora Zari       	(MPIA) <br>
 Elmé Breedt	            (Institute of Astronomy, Cambridge) <br>
+Emily Hunt              (Landessternwarte, Heidelberg) <br>
 Eugene Vasiliev	        (Institute of Astronomy, Cambridge ) <br>
 Fredi Quispe Huaynasi	(Observatorio Nacional de Rio de Janeiro) <br>
 Friedrich Anders    	(ICCUB Barcelona) <br>
@@ -69,7 +70,7 @@ Morgan Fouesneau	    (MPIA) <br>
 Olcay Plevne	        (Istanbul U.) <br>
 Oleksiy Golubov	        (V. N. Karazin Kharkiv National U.) <br>
 Payel Das	            (U. of Surrey) <br>
-Priya Shah	            (Maulana Azad National Urdu U.) <br>
+Priya Hasan             (Maulana Azad National Urdu U.) <br>
 Raj Kumar Pradhan	    (Tribhuvan U.) <br>
 Ronald Drimmel	        (INAF) <br>
 Sachin Venkatesh Thakku Saravana Kumar	(Delhi Technological U.) <br>
