@@ -5,4 +5,4 @@ These are the web pages for the first GaiaUnlimited Community workshop, Septembe
 [https://gaia-unlimited.github.io/community-workshop1](https://gaia-unlimited.github.io/community-workshop1)
 
 
-[GaiaUnlmited](https://gaia-unlimited.org/)
+[GaiaUnlimited](https://gaia-unlimited.org/)
