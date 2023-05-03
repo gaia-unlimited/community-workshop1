@@ -9,7 +9,7 @@ title: Organizers
 
 [<img src="https://gaia-unlimited.org/wp-content/uploads/2021/06/cropped-gaia_unlimited_logo.png" alt="venue" width=360px">](https://gaia-unlimited.org)
 
-[The Gaia Unlimited Team](https://gaia-unlimited.org/sample-page)
+[The Gaia Unlimited Team](https://gaia-unlimited.org/team)
 
 * Adrian Price-Whelan (Flatiron)
 * Alfred Castro-Ginard (Leiden)
